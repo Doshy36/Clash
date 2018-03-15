@@ -30,8 +30,6 @@ You can build this project running the following command:
 mvn package
 ```
 
----REMOVE IF PROJECT DOESN'T USE GITLAB CI---
-
 This project also includes a GitLab CI `.gitlab-ci.yml` build config file to automatically build and deploy our artifacts to the main and development networks. This process requires the use of a custom Docker image, but its setup is documented on the [Docs](https://github.com/Minespree/Docs/blob/master/deploy/PLAYPEN_DEPLOYER.md) page.
 
 ## Architecture
