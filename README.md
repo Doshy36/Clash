@@ -29,7 +29,7 @@ This project depends on these modules, so they should also be built and placed o
 * [Feather](https://github.com/Minespree/Feather)
 * [Rise](https://github.com/Minespree/Rise)
 * [Pirate](https://github.com/Minespree/Pirate)
-* [Myers](https://github.com/Minespree/Myers)
+* [Wizard](https://github.com/Minespree/Wizard)
 * [Babel](https://github.com/Minespree/Babel)
 * [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/)
 
