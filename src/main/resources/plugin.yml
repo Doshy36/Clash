@@ -1,7 +1,7 @@
 name: Clash
 main: net.minespree.games.clash.Clash
 version: ${gitCommit}
-author: Doshy
+author: Minespree
 softdepend: [Rise, Citizens]
 
 commands:
